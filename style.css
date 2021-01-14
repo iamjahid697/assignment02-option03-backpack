@@ -1,0 +1,16 @@
+.fashion-color{
+    color:#363958 ;
+}
+.penguin-color{
+    color:#76C27E;
+}
+.image-control{
+    width: 100%;
+}
+.my-card-footer{
+    background-color: white;
+    border-top: none;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
